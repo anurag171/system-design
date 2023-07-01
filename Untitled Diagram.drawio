@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-30T18:13:55.505Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="N-BLbKNauTryZdTun02y" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T08:53:50.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="DvntvNcFPuMzYRzX4uxR" version="21.5.2" type="github">
   <diagram name="Page-1" id="mvn6tCnARTkxNyPKDhiE">
     <mxGraphModel dx="1606" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -210,6 +210,9 @@
             <mxPoint x="780" y="690" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="f9wn1F7N15Fy2SOWcpJd-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f9wn1F7N15Fy2SOWcpJd-55" target="f9wn1F7N15Fy2SOWcpJd-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f9wn1F7N15Fy2SOWcpJd-55" value="DocumentDB (with MongoDB Compatibility)" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.documentdb_with_mongodb_compatibility;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=#ffffff;pointerEvents=1;fontSize=16.7;fontColor=#3a414a;spacing=0;strokeOpacity=100;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#3b48cc;strokeWidth=0.8;lucidId=Vdv_FUB0yAIt;" vertex="1" parent="1">
           <mxGeometry x="390" y="810" width="90" height="90" as="geometry" />
         </mxCell>
@@ -218,7 +221,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9wn1F7N15Fy2SOWcpJd-57" value="async even to DB" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=13.3;" vertex="1" parent="f9wn1F7N15Fy2SOWcpJd-56">
+        <mxCell id="f9wn1F7N15Fy2SOWcpJd-57" value="async event to DB" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;fontSize=13.3;" vertex="1" parent="f9wn1F7N15Fy2SOWcpJd-56">
           <mxGeometry x="-0.1895669131388633" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f9wn1F7N15Fy2SOWcpJd-58" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#cd2264;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=block;startFill=1;endArrow=block;endFill=1;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;lucidId=Xqv_Snlq5Jwr;" edge="1" parent="1" source="f9wn1F7N15Fy2SOWcpJd-55">
@@ -329,7 +332,7 @@
             <mxPoint x="720" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="f9wn1F7N15Fy2SOWcpJd-87" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
+        <mxCell id="f9wn1F7N15Fy2SOWcpJd-87" value="last 10 search&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="690" y="960" width="50" height="42" as="geometry" />
         </mxCell>
         <mxCell id="f9wn1F7N15Fy2SOWcpJd-88" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="f9wn1F7N15Fy2SOWcpJd-87" target="f9wn1F7N15Fy2SOWcpJd-46">
