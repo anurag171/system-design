@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T10:19:58.236Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="yQ2q6lJJ8aXGbKC6w8UY" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T10:30:16.994Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="vpe9buUt3Sg4Bk7HV9aL" version="21.5.2" type="github">
   <diagram name="Page-1" id="mvn6tCnARTkxNyPKDhiE">
     <mxGraphModel dx="1606" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -414,10 +414,22 @@
           <mxGeometry x="1270" y="-73" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="f9wn1F7N15Fy2SOWcpJd-130" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="58" y="-91" width="602" height="91" as="geometry" />
+          <mxGeometry x="58" y="-91" width="512" height="91" as="geometry" />
         </mxCell>
         <mxCell id="f9wn1F7N15Fy2SOWcpJd-131" value="USERS" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;fontFamily=Orbitron;fontColor=default;fontStyle=1;spacing=0;fillColor=#ffffff;strokeWidth=1.5;strokeColor=none;lucidId=MDY51JDD0VZx;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-150" width="180" height="45" as="geometry" />
+          <mxGeometry x="240" y="-150" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f9wn1F7N15Fy2SOWcpJd-134" value="organizations" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/business-and-finance-20/200/vector_65_02-128.png" vertex="1" parent="1">
+          <mxGeometry x="200" y="-86" width="64.5" height="64.5" as="geometry" />
+        </mxCell>
+        <mxCell id="f9wn1F7N15Fy2SOWcpJd-137" value="Evaluators" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#4AB29A;gradientDirection=north;fillColor=#116D5B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.migration_evaluator;" vertex="1" parent="1">
+          <mxGeometry x="327" y="-87.5" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="f9wn1F7N15Fy2SOWcpJd-138" value="Individuals" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.users;" vertex="1" parent="1">
+          <mxGeometry x="70.5" y="-79.5" width="64.5" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="f9wn1F7N15Fy2SOWcpJd-139" value="Auditors" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/AAD_Licenses.svg;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-83" width="66" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
